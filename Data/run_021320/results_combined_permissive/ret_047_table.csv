@@ -1,0 +1,10 @@
+Hugo_Symbol,Chromosome,Start_Position,End_Position,Variant_Classification,HGVSp_Short,Reference_Allele,Tumor_Seq_Allele2,ExAC_AF,Hotspot,DMP,CH,duplex_support_num,C-898XKN-L001-d___duplex.called,C-898XKN-L001-d___total,C-898XKN-L002-d___duplex.called,C-898XKN-L002-d___total,C-898XKN-N002-d___unfilterednormal,call_confidence
+APC,5,112178031,112178031,Missense_Mutation,p.S2247C,C,G,NA,NA,NA,NA,NA,Called,620/3253(0.1906),Called,213/3645(0.0584),1/1301(8e-04),NA
+KDM6A,X,44970630,44970630,Missense_Mutation,p.P1394S,C,T,NA,NA,NA,NA,NA,Called,16/2325(0.0069),Called,8/2616(0.0031),0/1001(0),NA
+KIT,4,55593431,55593431,Missense_Mutation,p.V530I,G,A,0.0004331,NA,NA,NA,NA,Called,15/1749(0.0086),Not Called,4/2462(0.0016),2/1061(0.0019),NA
+PIK3CA,3,178936091,178936091,Missense_Mutation,p.E545K,G,A,NA,Hotspot,NA,NA,NA,Called,326/782(0.4169),Called,143/1056(0.1354),2/429(0.0047),NA
+RB1,13,48881435,48881435,Nonsense_Mutation,p.E53*,G,T,NA,NA,NA,NA,NA,Called,604/1340(0.4507),Called,263/2417(0.1088),0/997(0),NA
+RET,10,43615014,43615014,Missense_Mutation,p.G810C,G,T,NA,NA,NA,NA,NA,Not Called,0/1625(0),Called,23/2276(0.0101),0/1054(0),NA
+TP53,17,7578370,7578370,Splice_Site,p.X187_splice,C,A,NA,Hotspot,NA,NA,NA,Called,597/1403(0.4255),Called,230/2224(0.1034),0/888(0),NA
+KIF5B__RET,10__10,32311563,43611809,INV,Protein Fusion: in frame  {KIF5B:RET},,,,Significance gene,,,,Called,2-2-1877(0.0021),Called,68-160-2960(0.077),NA,
+RET__ZNF487,10__10,43611139,43955766,DEL,Transcript Fusion {RET:ZNF487},,,,Significance gene,,,,Called,2-2-1877(0.0021),Called,41-124-2214(0.0745),NA,

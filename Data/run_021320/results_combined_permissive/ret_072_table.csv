@@ -1,0 +1,13 @@
+Hugo_Symbol,Chromosome,Start_Position,End_Position,Variant_Classification,HGVSp_Short,Reference_Allele,Tumor_Seq_Allele2,ExAC_AF,Hotspot,DMP,CH,duplex_support_num,C-9LTLY8-L001-d___duplex.called,C-9LTLY8-L001-d___total,P-0042153-N01-IM6___normal_DMP,P-0042153-T01-IM6___Tumor,call_confidence
+ATM,11,108143579,108143579,Missense_Mutation,p.R1095I,G,T,NA,NA,NA,NA,NA,Called,8/2108(0.0038),0/359(0),1/636(0.0016),NA
+BMPR1A,10,88683138,88683138,Missense_Mutation,p.V450L,G,T,NA,NA,Signed out,NA,NA,Not Covered,0/0(NaN),0/542(0),541/650(0.8323),High
+PTEN,10,89712017,89712017,Splice_Site,p.X212_splice,G,A,NA,Hotspot,Signed out,NA,NA,Called,58/1729(0.0335),0/273(0),253/296(0.8547),High
+STK11,19,1207024,1207024,Missense_Mutation,p.P38A,C,G,NA,NA,Signed out,NA,NA,Not Called,0/1337(0),0/711(0),90/1180(0.0763),High
+TP53,17,7577538,7577538,Missense_Mutation,p.R248Q,C,T,NA,Hotspot,NA,Yes,NA,Called,4/1686(0.0024),1/650(0.0015),1/1267(8e-04),NA
+ATXN7L3B__ROS1,12__6,74780839,117643012,TRA,-,,,,Significance gene,,,,Called,0-33-44(0.75),NA,NA,
+BRCA1__EHMT1,17__9,41244909,140583654,TRA,Antisense Fusion,,,,,Signed out,,,Not Called,NA,NA,6-6-NA(NA),High
+KIF13A__RET,6__10,17806539,43610500,TRA,Protein Fusion: in frame  {RET:KIF13A},,,,Significance gene,,,,Called,203-405-991(0.6135),NA,NA,
+KIF13A__RET,6__10,17806558,43610510,TRA,Protein Fusion: in frame  {KIF13A:RET},,,,Significance gene,,,,Called,0-315-948(0.3323),NA,NA,
+RET__KIF13A,10__6,43610500,17806539,TRA,Protein Fusion: in frame  {RET:KIF13A},,,,Significance gene,,,,Called,5-0-36(0.1389),NA,NA,
+RET__KIF13A,10__6,43610510,17806558,TRA,Protein Fusion: in frame  {KIF13A:RET},,,,Significance gene,Signed out,,,Called,0-193-591(0.3266),NA,415-10-NA(NA),High
+ROS1__ATXN7L3B,6__12,117643012,74780839,TRA,-,,,,Significance gene,,,,Called,78-0-767(0.1017),NA,NA,

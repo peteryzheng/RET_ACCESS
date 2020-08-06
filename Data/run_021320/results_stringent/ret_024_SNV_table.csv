@@ -1,0 +1,5 @@
+"Hugo_Symbol","Chromosome","Start_Position","End_Position","Variant_Classification","HGVSp_Short","Reference_Allele","Tumor_Seq_Allele2","ExAC_AF","Hotspot","DMP","CH","duplex_support_num","C-CUDCW0-L001-d___duplex.called","C-CUDCW0-L001-d___total","P-0029997-N01-IM6___normal_DMP","P-0029997-T01-IM6___Tumor","call_confidence"
+"ARID1A","1",27058033,27058033,"Nonsense_Mutation","p.Q581*","C","T",NA,NA,"Signed out",NA,NA,"Not Called","0/2102(0)","0/620(0)","93/404(0.2302)",""
+"PTEN","10",89692794,89692794,"Missense_Mutation","p.H93R","A","G",NA,"Hotspot","Signed out",NA,NA,"Not Called","0/851(0)","0/365(0)","91/284(0.3204)",""
+"TSC2","16",2110689,2110689,"Missense_Mutation","p.E332K","G","A",NA,NA,NA,NA,NA,"Called","5/2939(0.0017)","0/820(0)","1/728(0.0014)",""
+"TSC2","16",2121850,2121850,"Missense_Mutation","p.G671A","G","C",NA,NA,NA,NA,NA,"Called","5/2164(0.0023)","0/552(0)","1/409(0.0024)",""

@@ -1,0 +1,3 @@
+Hugo_Symbol,Chromosome,Start_Position,End_Position,Variant_Classification,HGVSp_Short,Reference_Allele,Tumor_Seq_Allele2,ExAC_AF,Hotspot,DMP,CH,duplex_support_num,C-02WK6K-L001-d___duplex.called,C-02WK6K-L001-d___total,C-02WK6K-L002-d___duplex.called,C-02WK6K-L002-d___total,P-0001745-N01-IM3___normal_DMP,P-0001745-N01-IM5___normal_DMP,P-0001745-T01-IM3___Tumor,P-0001745-T02-IM5___Tumor,call_confidence
+AR,X,66766357,66766357,Frame_Shift_Del,p.G457Afs*22,G,-,NA,NA,NA,NA,NA,Not Called,2/1076(0.0019),Called,6/1090(0.0055),0/246(0),0/131(0),0/325(0),0/534(0),NA
+RET__CCDC6,10__10,43611245,61621918,INV,Protein fusion: in frame (CCDC6-RET),,,,Significance gene,Signed out,,,Not Called,NA,Not Called,NA,NA,NA,NA,3-10-NA(NA),High

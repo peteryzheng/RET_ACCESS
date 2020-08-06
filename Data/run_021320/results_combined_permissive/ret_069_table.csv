@@ -1,0 +1,9 @@
+Hugo_Symbol,Chromosome,Start_Position,End_Position,Variant_Classification,HGVSp_Short,Reference_Allele,Tumor_Seq_Allele2,ExAC_AF,Hotspot,DMP,CH,duplex_support_num,C-9DRD2D-L001-d___duplex.called,C-9DRD2D-L001-d___total,P-0037772-N01-IM6___normal_DMP,P-0037772-T01-IM6___Tumor,call_confidence
+AR,X,66766391,66766391,Missense_Mutation,p.G468D,G,A,NA,NA,NA,NA,NA,Called,13/569(0.0228),0/47(0),2/101(0.0198),NA
+CIC,19,42799272,42799272,Missense_Mutation,p.P1586S,C,T,NA,NA,Signed out,NA,NA,Not Covered,0/1(0),2/599(0.0033),336/914(0.3676),High
+RET,10,43609949,43609949,Missense_Mutation,p.C634Y,G,A,NA,NA,NA,NA,NA,Called,1597/2477(0.6447),365/784(0.4656),1142/1236(0.9239),NA
+SMAD4,18,48604778,48604778,Nonsense_Mutation,p.Q534*,C,T,NA,Hotspot,NA,NA,NA,Called,2/2475(8e-04),0/459(0),0/705(0),NA
+SMARCA4,19,11129645,11129645,Missense_Mutation,p.N817K,C,A,NA,NA,Signed out,NA,NA,Not Covered,0/0(NaN),0/535(0),422/1010(0.4178),High
+TP53,17,7578461,7578461,Missense_Mutation,p.V157L,C,G,NA,Hotspot,NA,NA,NA,Called,2/2607(8e-04),0/732(0),0/1212(0),NA
+ROS1__ZNF174,6__16,117643012,3464612,TRA,-,,,,Significance gene,,,,Called,0-4-32(0.125),NA,NA,
+ZNF174__ROS1,16__6,3464612,117643012,TRA,-,,,,Significance gene,,,,Called,2-2-1266(0.0032),NA,NA,

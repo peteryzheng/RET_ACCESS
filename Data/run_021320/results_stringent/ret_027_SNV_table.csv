@@ -1,0 +1,2 @@
+"Hugo_Symbol","Chromosome","Start_Position","End_Position","Variant_Classification","HGVSp_Short","Reference_Allele","Tumor_Seq_Allele2","ExAC_AF","Hotspot","DMP","CH","duplex_support_num","C-DF0LWR-L001-d___duplex.called","C-DF0LWR-L001-d___total","P-0017214-N01-IM6___normal_DMP","P-0017214-T01-IM6___Tumor","P-0017214-T02-IM6___Tumor","call_confidence"
+"TP53","17",7577120,7577120,"Missense_Mutation","p.R273H","C","T",NA,"Hotspot","Signed out","Yes",NA,"Not Called","0/1335(0)","0/878(0)","64/1502(0.0426)","75/966(0.0776)",""

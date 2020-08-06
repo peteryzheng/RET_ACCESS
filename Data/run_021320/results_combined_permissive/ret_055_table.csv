@@ -1,0 +1,3 @@
+Hugo_Symbol,Chromosome,Start_Position,End_Position,Variant_Classification,HGVSp_Short,Reference_Allele,Tumor_Seq_Allele2,ExAC_AF,Hotspot,DMP,CH,duplex_support_num,C-H0YMA5-L001-d___duplex.called,C-H0YMA5-L001-d___total,C-H0YMA5-N002-d___unfilterednormal,call_confidence
+FGFR3,4,1808009,1808009,Missense_Mutation,p.A662E,C,A,NA,NA,NA,NA,NA,Called,9/2699(0.0033),0/1362(0),NA
+RET,10,43609948,43609948,Missense_Mutation,p.C634R,T,C,9.415e-06,NA,NA,NA,NA,Called,484/2530(0.1913),0/1359(0),NA

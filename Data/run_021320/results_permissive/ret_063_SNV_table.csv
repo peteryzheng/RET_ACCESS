@@ -1,0 +1,3 @@
+"Hugo_Symbol","Chromosome","Start_Position","End_Position","Variant_Classification","HGVSp_Short","Reference_Allele","Tumor_Seq_Allele2","ExAC_AF","Hotspot","DMP","CH","duplex_support_num","C-RV8X5K-L001-d___duplex.called","C-RV8X5K-L001-d___total","call_confidence"
+"PMS2","7",6037055,6037055,"Splice_Site","p.X236_splice","C","-",NA,NA,NA,NA,NA,"Called","33/1728(0.0191)",""
+"SF3B1","2",198266758,198266758,"Missense_Mutation","p.D725A","T","G",NA,NA,NA,NA,NA,"Called","7/3742(0.0019)",""

@@ -1,0 +1,2 @@
+"Hugo_Symbol","Chromosome","Start_Position","End_Position","Variant_Classification","HGVSp_Short","Reference_Allele","Tumor_Seq_Allele2","ExAC_AF","Hotspot","DMP","CH","duplex_support_num","C-7MX9ND-L001-d___duplex.called","C-7MX9ND-L001-d___total","call_confidence"
+"RET","10",43600607,43600607,"Missense_Mutation","p.T278N","C","A",0.002194,NA,NA,NA,NA,"Called","897/1743(0.5146)",""

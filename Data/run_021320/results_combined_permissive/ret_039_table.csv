@@ -1,0 +1,8 @@
+Hugo_Symbol,Chromosome,Start_Position,End_Position,Variant_Classification,HGVSp_Short,Reference_Allele,Tumor_Seq_Allele2,ExAC_AF,Hotspot,DMP,CH,duplex_support_num,C-001798-L001-d___duplex.called,C-001798-L001-d___total,P-0017365-N01-IM6___normal_DMP,P-0017365-T02-IM6___Tumor,P-0017365-T03-IM6___Tumor,P-0017365-T04-IM6___Tumor,call_confidence
+TP53,17,7577107,7577107,Nonsense_Mutation,p.C277*,A,T,NA,Hotspot,Signed out,NA,NA,Not Called,0/2828(0),0/993(0),0/622(0),0/1141(0),107/1375(0.0778),High
+TSC2,16,2138293,2138294,In_Frame_Ins,p.H1746_R1751dup,-,CGGCTCCGCCACATCAAG,NA,NA,NA,NA,NA,Called,89/2826(0.0315),0/992(0),0/1064(0),0/1130(0),0/1379(0),NA
+CDKN2A__CDKN2B,9__9,21968256,22143651,DEL,-,,,,,Signed out,,,Not Called,NA,NA,NA,6-8-NA(NA),NA,High
+PIK3C2G__PIK3C2G,12__12,18540068,18552482,DEL,Deletion of 1 exon : out of frame,,,,,Signed out,,,Not Called,NA,NA,10-10-NA(NA),9-8-NA(NA),11-10-NA(NA),High
+RET__CCDC6,10__10,43611007,61640387,INV,Protein Fusion: in frame  {RET:CCDC6},,,,Significance gene,,,,Called,2-4-25(0.24),NA,NA,NA,NA,
+RET__CCDC6,10__10,43611459,61640382,INV,Protein Fusion: in frame  {CCDC6:RET},,,,Significance gene,,,,Called,80-86-3403(0.0488),NA,NA,NA,NA,
+RET__CCDC6,10__10,43611464,61640379,INV,Protein Fusion: in frame  {CCDC6:RET},,,,Significance gene,Signed out,,,Not Called,NA,NA,51-10-NA(NA),36-10-NA(NA),42-10-NA(NA),High

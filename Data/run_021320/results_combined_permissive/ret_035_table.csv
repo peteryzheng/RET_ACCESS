@@ -1,0 +1,4 @@
+Hugo_Symbol,Chromosome,Start_Position,End_Position,Variant_Classification,HGVSp_Short,Reference_Allele,Tumor_Seq_Allele2,ExAC_AF,Hotspot,DMP,CH,duplex_support_num,C-001440-L001-d___duplex.called,C-001440-L001-d___total,C-001440-L002-d___duplex.called,C-001440-L002-d___total,P-0020809-N01-IM6___normal_DMP,P-0020809-T01-IM6___Tumor,call_confidence
+ALK,2,29519801,29519801,Missense_Mutation,p.L590F,C,A,NA,NA,Signed out,NA,NA,Not Covered,0/1(0),Not Covered,0/1(0),2/993(0.002),98/262(0.374),High
+RET,10,43610044,43610044,Missense_Mutation,p.K666E,A,G,NA,NA,NA,NA,NA,Called,167/4130(0.0404),Called,28/1629(0.0172),0/1196(0),0/495(0),NA
+RET,10,43617416,43617416,Missense_Mutation,p.M918T,T,C,NA,Hotspot,Signed out,NA,NA,Called,381/3877(0.0983),Called,33/1545(0.0214),0/802(0),184/333(0.5526),High

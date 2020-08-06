@@ -1,0 +1,5 @@
+Hugo_Symbol,Chromosome,Start_Position,End_Position,Variant_Classification,HGVSp_Short,Reference_Allele,Tumor_Seq_Allele2,ExAC_AF,Hotspot,DMP,CH,duplex_support_num,C-HAT9MW-L001-d___duplex.called,C-HAT9MW-L001-d___total,C-HAT9MW-L002-d___duplex.called,C-HAT9MW-L002-d___total,C-HAT9MW-N002-d___unfilterednormal,call_confidence
+FGFR3,4,1803710,1803748,In_Frame_Del,,CAAGGTGGGCCCGGACGGCACACCCTACGTTACCGTGCT,-,NA,NA,NA,NA,NA,Not Called,0/2514(0),Called,31/1200(0.0258),0/1067(0),NA
+GATA3,10,8115715,8115715,Missense_Mutation,p.L354Q,T,A,NA,NA,NA,NA,NA,Called,8/1947(0.0041),Not Called,1/1137(9e-04),0/981(0),NA
+RET,10,43610046,43610046,Missense_Mutation,p.K666N,G,T,9.415e-06,NA,NA,NA,NA,Called,1156/2407(0.4803),Called,600/1233(0.4866),734/1507(0.4871),NA
+RET,10,43615613,43615613,Missense_Mutation,p.D898Y,G,T,1.883e-05,NA,NA,NA,NA,Called,53/2897(0.0183),Not Called,1/1543(6e-04),0/1290(0),NA

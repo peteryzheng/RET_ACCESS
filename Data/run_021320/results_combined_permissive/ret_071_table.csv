@@ -1,0 +1,4 @@
+Hugo_Symbol,Chromosome,Start_Position,End_Position,Variant_Classification,HGVSp_Short,Reference_Allele,Tumor_Seq_Allele2,ExAC_AF,Hotspot,DMP,CH,duplex_support_num,C-4WM19J-L001-d___duplex.called,C-4WM19J-L001-d___total,P-0000662-N01-IM3___normal_DMP,P-0000662-T01-IM3___Tumor,call_confidence
+GATA3,10,8115703,8115703,Missense_Mutation,p.I350N,T,A,NA,NA,NA,NA,NA,Called,6/1748(0.0034),0/332(0),0/706(0),NA
+NTRK1,1,156848945,156848995,In_Frame_Del,p.G613_A629del,GGTGGGGAGGATGTGGCTCCAGGCCCCCTGGGTCTGGGGCAGCTGCTGGCC,-,NA,NA,NA,NA,NA,Called,140/2293(0.0611),0/235(0),0/565(0),NA
+RET,10,43609948,43609948,Missense_Mutation,p.C634R,T,C,9.415e-06,NA,Signed out,NA,NA,Called,34/1956(0.0174),0/428(0),529/1054(0.5019),High

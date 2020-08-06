@@ -1,0 +1,10 @@
+Hugo_Symbol,Chromosome,Start_Position,End_Position,Variant_Classification,HGVSp_Short,Reference_Allele,Tumor_Seq_Allele2,ExAC_AF,Hotspot,DMP,CH,duplex_support_num,C-RLE52T-L001-d___duplex.called,C-RLE52T-L001-d___total,P-0004901-N01-IM5___normal_DMP,P-0004901-T01-IM5___Tumor,call_confidence
+ALK,2,29416493,29416493,Missense_Mutation,p.S1487L,G,A,NA,NA,NA,NA,NA,Called,7/3313(0.0021),0/1257(0),2/976(0.002),NA
+CDH1,16,68845758,68845758,Missense_Mutation,p.R335Q,G,A,4.708e-05,Hotspot,NA,NA,NA,Called,3/3153(0.001),0/1008(0),0/854(0),NA
+CDKN2A,9,21971036,21971036,Missense_Mutation,p.D108N,C,T,NA,Hotspot,NA,NA,NA,Called,2/1862(0.0011),0/752(0),0/550(0),NA
+NF1,17,29533316,29533316,Missense_Mutation,p.R440Q,G,A,NA,Hotspot,NA,NA,NA,Called,2/2499(8e-04),0/1007(0),0/639(0),NA
+NUP93,16,56782202,56782202,Nonsense_Mutation,p.Q15*,C,T,NA,Hotspot,NA,NA,NA,Called,5/2553(0.002),0/1558(0),0/1270(0),NA
+PIK3CA,3,178952084,178952084,Missense_Mutation,p.H1047Y,C,T,NA,Hotspot,NA,NA,NA,Called,2/2515(8e-04),0/1158(0),0/1061(0),NA
+PMS2,7,6037055,6037055,Splice_Site,p.X236_splice,C,-,NA,NA,NA,NA,NA,Called,17/1206(0.0141),0/857(0),0/848(0),NA
+RET__CCDC6,10__10,43611724,61653033,INV,Protein Fusion: in frame  {RET:CCDC6},,,,Significance gene,,,,Called,0-89-3024(0.0294),NA,NA,
+RET__CCDC6,10__10,43611729,61653032,INV,Protein Fusion: in frame  {CCDC6:RET} | Protein fusion: in frame (CCDC6-RET),,,,Significance gene,Signed out,,,Called,14-0-653(0.0214),NA,102-115-NA(NA),High

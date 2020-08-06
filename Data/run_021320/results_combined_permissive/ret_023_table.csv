@@ -1,0 +1,5 @@
+Hugo_Symbol,Chromosome,Start_Position,End_Position,Variant_Classification,HGVSp_Short,Reference_Allele,Tumor_Seq_Allele2,ExAC_AF,Hotspot,DMP,CH,duplex_support_num,C-AHDYW9-L001-d___duplex.called,C-AHDYW9-L001-d___total,C-AHDYW9-N002-d___unfilterednormal,call_confidence
+AKT1,14,105246551,105246551,Missense_Mutation,p.E17K,C,T,NA,Hotspot,NA,NA,NA,Called,6/2731(0.0022),0/770(0),NA
+MSH2,2,47705500,47705500,Missense_Mutation,p.S767L,C,T,NA,NA,NA,NA,NA,Called,10/3046(0.0033),0/794(0),NA
+BMS1__RET,10__10,43287106,43610188,INV,Antisense Fusion,,,,Significance gene,,,,Called,39-51-2878(0.0313),NA,
+KIF5B__RET,10__10,32312630,43610240,INV,Protein Fusion: in frame  {KIF5B:RET},,,,Significance gene,,,,Called,22-17-2363(0.0165),NA,

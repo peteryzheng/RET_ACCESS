@@ -1,0 +1,6 @@
+Hugo_Symbol,Chromosome,Start_Position,End_Position,Variant_Classification,HGVSp_Short,Reference_Allele,Tumor_Seq_Allele2,ExAC_AF,Hotspot,DMP,CH,duplex_support_num,C-5HUL5J-L001-d___duplex.called,C-5HUL5J-L001-d___total,C-5HUL5J-L002-d___duplex.called,C-5HUL5J-L002-d___total,C-5HUL5J-N002-d___unfilterednormal,P-0042580-N01-IM6___normal_DMP,P-0042580-T01-IM6___Tumor,call_confidence
+PTEN,10,89717699,89717699,Nonsense_Mutation,p.E242*,G,T,NA,NA,Signed out,NA,NA,Called,34/1614(0.0211),Genotyped,6/1560(0.0038),0/761(0),0/539(0),101/798(0.1266),High
+TP53,17,7578474,7578475,Frame_Shift_Ins,p.P153Afs*28,-,G,NA,NA,Signed out,NA,NA,Called,25/2167(0.0115),Called,7/2113(0.0033),0/970(0),0/882(0),283/1652(0.1713),High
+KIF5B__RET,10__10,32315736,43610943,INV,Protein Fusion: in frame  {KIF5B:RET},,,,Significance gene,,,,Called,7-0-171(0.0409),Not Called,NA,NA,NA,NA,
+KIF5B__RET,10__10,32315737,43610944,INV,Protein Fusion: in frame  {KIF5B:RET},,,,Significance gene,Signed out,,,Not Called,NA,Not Called,NA,NA,NA,36-10-NA(NA),High
+KIF5B__RET,10__10,32315742,43610942,INV,Protein Fusion: in frame  {RET:KIF5B},,,,Significance gene,,,,Called,3-4-580(0.0121),Called,0-9-1231(0.0073),NA,NA,NA,

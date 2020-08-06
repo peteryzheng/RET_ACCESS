@@ -1,0 +1,4 @@
+"Hugo_Symbol","Chromosome","Start_Position","End_Position","Variant_Classification","HGVSp_Short","Reference_Allele","Tumor_Seq_Allele2","ExAC_AF","Hotspot","DMP","CH","duplex_support_num","C-3H64JM-L001-d___duplex.called","C-3H64JM-L001-d___total","call_confidence"
+"APC","5",112179076,112179086,"Frame_Shift_Del","p.S2596Tfs*3","TTCAGGAACCA","-",NA,NA,NA,NA,NA,"Called","12/1963(0.0061)",""
+"EGFR","7",55241666,55241666,"Missense_Mutation","p.R705K","G","A",NA,NA,NA,NA,NA,"Called","14/2571(0.0054)",""
+"TP53","17",7578534,7578534,"Missense_Mutation","p.K132N","C","G",NA,"Hotspot",NA,NA,NA,"Called","2/2262(9e-04)",""

@@ -1,0 +1,2 @@
+"Hugo_Symbol","Chromosome","Start_Position","End_Position","Variant_Classification","HGVSp_Short","Reference_Allele","Tumor_Seq_Allele2","ExAC_AF","Hotspot","DMP","CH","duplex_support_num","C-93W8WP-L001-d___duplex.called","C-93W8WP-L001-d___total","C-93W8WP-L002-d___duplex.called","C-93W8WP-L002-d___total","P-0013034-N01-IM5___normal_DMP","P-0013034-T01-IM5___Tumor","call_confidence"
+"RET","10",43609936,43609936,"Missense_Mutation","p.C630G","T","G",NA,NA,"Signed out",NA,NA,"Called","212/3085(0.0687)","Called","9/1312(0.0069)","0/1441(0)","330/1316(0.2508)",""

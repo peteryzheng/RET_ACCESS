@@ -1,0 +1,2 @@
+"Hugo_Symbol","Chromosome","Start_Position","End_Position","Variant_Classification","HGVSp_Short","Reference_Allele","Tumor_Seq_Allele2","ExAC_AF","Hotspot","DMP","CH","duplex_support_num","C-EW1Y3E-L001-d___duplex.called","C-EW1Y3E-L001-d___total","P-0008955-N01-IM5___normal_DMP","P-0008955-T03-IM5___Tumor","call_confidence"
+"GATA3","10",8115715,8115715,"Missense_Mutation","p.L354Q","T","A",NA,NA,NA,NA,NA,"Called","8/1377(0.0058)","0/595(0)","1/632(0.0016)",""

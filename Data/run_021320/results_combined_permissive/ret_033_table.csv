@@ -1,0 +1,7 @@
+Hugo_Symbol,Chromosome,Start_Position,End_Position,Variant_Classification,HGVSp_Short,Reference_Allele,Tumor_Seq_Allele2,ExAC_AF,Hotspot,DMP,CH,duplex_support_num,C-H77MCH-L001-d___duplex.called,C-H77MCH-L001-d___total,C-H77MCH-L002-d___duplex.called,C-H77MCH-L002-d___total,P-0025606-N01-IM6___normal_DMP,P-0025606-T01-IM6___Tumor,P-0025606-T03-IM6___Tumor,call_confidence
+ARID1A,1,27023008,27023010,In_Frame_Del,p.A45del,GGC,-,0.000151,NA,Signed out,NA,NA,Genotyped,2/871(0.0023),Not Called,1/354(0.0028),0/44(0),10/147(0.068),1/35(0.0286),High
+CDKN2A,9,21971138,21971138,Missense_Mutation,p.D74N,C,T,NA,Hotspot,NA,NA,NA,Called,2/1649(0.0012),Not Called,0/822(0),0/539(0),5/464(0.0108),0/322(0),NA
+NF1,17,29533316,29533316,Missense_Mutation,p.R440Q,G,A,NA,Hotspot,NA,NA,NA,Not Called,0/2697(0),Called,2/1449(0.0014),0/489(0),2/262(0.0076),0/295(0),NA
+RET,10,43614996,43614996,Missense_Mutation,p.V804M,G,A,0.0001038,NA,NA,NA,NA,Called,804/1752(0.4589),Called,497/1004(0.495),305/642(0.4751),450/940(0.4787),238/503(0.4732),NA
+SLX4,16,3641280,3641284,Frame_Shift_Del,p.C786Nfs*33,CGCAC,T,NA,NA,Signed out,NA,NA,Not Covered,0/0(NaN),Not Covered,0/0(NaN),0/870(0),0/1162(0),0/597(0),High
+TP53,17,7578190,7578190,Missense_Mutation,p.Y220C,T,C,NA,Hotspot,NA,Yes,NA,Called,2/1883(0.0011),Not Called,1/1299(8e-04),0/845(0),0/948(0),2/634(0.0032),NA

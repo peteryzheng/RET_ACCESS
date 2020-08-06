@@ -1,0 +1,3 @@
+"Hugo_Symbol","Chromosome","Start_Position","End_Position","Variant_Classification","HGVSp_Short","Reference_Allele","Tumor_Seq_Allele2","ExAC_AF","Hotspot","DMP","CH","duplex_support_num","C-13TFTU-L001-d___duplex.called","C-13TFTU-L001-d___total","C-13TFTU-L002-d___duplex.called","C-13TFTU-L002-d___total","P-0010017-N01-IM5___normal_DMP","P-0010017-T01-IM5___Tumor","call_confidence"
+"RET","10",43609942,43609947,"In_Frame_Del","p.E632_L633del","GAGCTG","-",NA,NA,"Signed out",NA,NA,"Called","129/2620(0.0492)","Not Called","0/770(0)","0/846(0)","819/1228(0.6669)",""
+"TSC2","16",2121850,2121850,"Missense_Mutation","p.G671A","G","C",NA,NA,NA,NA,NA,"Called","5/2530(0.002)","Called","8/605(0.0132)","0/241(0)","0/503(0)",""

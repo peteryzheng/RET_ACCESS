@@ -1,0 +1,2 @@
+"Hugo_Symbol","Chromosome","Start_Position","End_Position","Variant_Classification","HGVSp_Short","Reference_Allele","Tumor_Seq_Allele2","ExAC_AF","Hotspot","DMP","CH","duplex_support_num","C-TF7VUA-L001-d___duplex.called","C-TF7VUA-L001-d___total","P-0021382-N01-IM6___normal_DMP","P-0021382-T01-IM6___Tumor","call_confidence"
+"RET","10",43617416,43617416,"Missense_Mutation","p.M918T","T","C",NA,"Hotspot","Signed out",NA,NA,"Called","372/2108(0.1765)","0/807(0)","152/663(0.2293)",""

@@ -1,0 +1,5 @@
+"Hugo_Symbol","Chromosome","Start_Position","End_Position","Variant_Classification","HGVSp_Short","Reference_Allele","Tumor_Seq_Allele2","ExAC_AF","Hotspot","DMP","CH","duplex_support_num","C-3U7797-L001-d___duplex.called","C-3U7797-L001-d___total","P-0026693-N01-IM6___normal_DMP","P-0026693-T01-IM6___Tumor","call_confidence"
+"ANKRD11","16",89350927,89350927,"Missense_Mutation","p.E675Q","C","G",NA,NA,"Signed out",NA,NA,"Not Covered","0/0(NaN)","0/944(0)","83/1414(0.0587)",""
+"SMARCA4","19",11170519,11170519,"Missense_Mutation","p.E1576K","G","A",NA,NA,"Signed out",NA,NA,"Not Covered","0/1(0)","0/699(0)","76/1076(0.0706)",""
+"SMARCA4","19",11170528,11170528,"Missense_Mutation","p.E1579K","G","A",NA,NA,"Signed out",NA,NA,"Not Covered","0/1(0)","1/706(0.0014)","70/1031(0.0679)",""
+"SMARCA4","19",11170531,11170531,"Missense_Mutation","p.E1580K","G","A",NA,NA,"Signed out",NA,NA,"Not Covered","0/1(0)","0/700(0)","72/1020(0.0706)",""

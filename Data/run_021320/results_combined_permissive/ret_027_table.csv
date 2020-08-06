@@ -1,0 +1,6 @@
+Hugo_Symbol,Chromosome,Start_Position,End_Position,Variant_Classification,HGVSp_Short,Reference_Allele,Tumor_Seq_Allele2,ExAC_AF,Hotspot,DMP,CH,duplex_support_num,C-DF0LWR-L001-d___duplex.called,C-DF0LWR-L001-d___total,P-0017214-N01-IM6___normal_DMP,P-0017214-T01-IM6___Tumor,P-0017214-T02-IM6___Tumor,call_confidence
+TP53,17,7577120,7577120,Missense_Mutation,p.R273H,C,T,NA,Hotspot,Signed out,Yes,NA,Not Called,0/1335(0),0/878(0),64/1502(0.0426),75/966(0.0776),High
+BRAF__INO80D,7__2,140498356,206936116,TRA,Transcript Fusion {INO80D:BRAF},,,,Significance gene,,,,Called,57-0-289(0.1972),NA,NA,NA,
+INO80D__BRAF,2__7,206936116,140498356,TRA,Transcript Fusion {INO80D:BRAF},,,,Significance gene,,,,Called,5-0-44(0.1136),NA,NA,NA,
+KIF5B__RET,10__10,32306314,43610647,INV,Protein Fusion: in frame  {KIF5B:RET},,,,Significance gene,Signed out,,,Not Called,NA,NA,6-10-NA(NA),20-10-NA(NA),High
+TSC2__TSC2,16__16,2135540,2136633,INV,Antisense Fusion,,,,,Signed out,,,Not Called,NA,NA,NA,4-0-NA(NA),High

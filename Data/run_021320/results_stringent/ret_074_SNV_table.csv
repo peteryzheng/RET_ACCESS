@@ -1,0 +1,3 @@
+"Hugo_Symbol","Chromosome","Start_Position","End_Position","Variant_Classification","HGVSp_Short","Reference_Allele","Tumor_Seq_Allele2","ExAC_AF","Hotspot","DMP","CH","duplex_support_num","C-RLE52T-L001-d___duplex.called","C-RLE52T-L001-d___total","P-0004901-N01-IM5___normal_DMP","P-0004901-T01-IM5___Tumor","call_confidence"
+"ALK","2",29416493,29416493,"Missense_Mutation","p.S1487L","G","A",NA,NA,NA,NA,NA,"Called","7/3313(0.0021)","0/1257(0)","2/976(0.002)",""
+"PMS2","7",6037055,6037055,"Splice_Site","p.X236_splice","C","-",NA,NA,NA,NA,NA,"Called","17/1206(0.0141)","0/857(0)","0/848(0)",""

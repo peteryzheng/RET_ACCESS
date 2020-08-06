@@ -1,0 +1,8 @@
+"Hugo_Symbol","Chromosome","Start_Position","End_Position","Variant_Classification","HGVSp_Short","Reference_Allele","Tumor_Seq_Allele2","ExAC_AF","Hotspot","DMP","CH","duplex_support_num","C-6P03JC-L001-d___duplex.called","C-6P03JC-L001-d___total","P-0027953-N01-IM6___normal_DMP","P-0027953-T01-IM6___Tumor","call_confidence"
+"ARID1A","1",27057733,27057733,"Nonsense_Mutation","p.Q481*","C","T",NA,NA,"Signed out",NA,NA,"Called","30/1517(0.0198)","1/719(0.0014)","167/851(0.1962)",""
+"GATA3","10",8111494,8111494,"Missense_Mutation","p.L327P","T","C",NA,NA,"Signed out",NA,NA,"Called","94/1662(0.0566)","0/546(0)","156/709(0.22)",""
+"MAP3K13","3",185184634,185184713,"Frame_Shift_Del","p.K510Rfs*43","AGAAGTATCCTGGGACCTACAAACGACACCCTGTTCGTCCTATCATCCATCCCAATGCCATGGAGAAACTCATGAAAAGG","-",NA,NA,"Signed out",NA,NA,"Not Covered","0/0(NaN)","0/356(0)","60/481(0.1247)",""
+"MSH6","2",48033988,48033988,"Missense_Mutation","p.K1358E","A","G",NA,NA,NA,NA,NA,"Called","17/1143(0.0149)","1/376(0.0027)","2/657(0.003)",""
+"SETD2","3",47125222,47125222,"Missense_Mutation","p.W2016C","C","A",NA,NA,"Signed out",NA,NA,"Not Covered","0/0(NaN)","0/309(0)","58/453(0.128)",""
+"SETD2","3",47143026,47143027,"Frame_Shift_Ins","p.L1646Rfs*22","-","GTTGTCC",NA,NA,"Signed out",NA,NA,"Not Covered","0/0(NaN)","0/524(0)","60/789(0.076)",""
+"TP53","17",7576855,7576855,"Nonsense_Mutation","p.Q331*","G","A",NA,"Hotspot","Signed out",NA,NA,"Called","37/1526(0.0242)","0/535(0)","113/596(0.1896)",""

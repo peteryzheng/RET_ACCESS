@@ -1,0 +1,4 @@
+"Hugo_Symbol","Chromosome","Start_Position","End_Position","Variant_Classification","HGVSp_Short","Reference_Allele","Tumor_Seq_Allele2","ExAC_AF","Hotspot","DMP","CH","duplex_support_num","C-CRW888-L001-d___duplex.called","C-CRW888-L001-d___total","P-0013886-N01-IM5___normal_DMP","P-0013886-T01-IM5___Tumor","call_confidence"
+"EPHB1","3",134920499,134920499,"Missense_Mutation","p.D772N","G","A",NA,NA,"Signed out",NA,NA,"Not Covered","0/0(NaN)","0/653(0)","61/572(0.1066)",""
+"GATA3","10",8115715,8115715,"Missense_Mutation","p.L354Q","T","A",NA,NA,NA,NA,NA,"Called","9/1414(0.0064)","0/527(0)","0/512(0)",""
+"TP53","17",7578501,7578506,"Frame_Shift_Del","p.P142Tfs*5","CACAGG","T",NA,NA,"Signed out",NA,NA,"Not Called","0/1414(0)","0/482(0)","0/332(0)",""

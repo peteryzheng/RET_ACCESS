@@ -1,0 +1,9 @@
+Hugo_Symbol,Chromosome,Start_Position,End_Position,Variant_Classification,HGVSp_Short,Reference_Allele,Tumor_Seq_Allele2,ExAC_AF,Hotspot,DMP,CH,duplex_support_num,C-9MNNF5-L001-d___duplex.called,C-9MNNF5-L001-d___total,P-0021937-N01-IM6___normal_DMP,P-0021937-T01-IM6___Tumor,P-0021937-T03-IM6___Tumor,call_confidence
+SETD2,3,47163405,47163405,Frame_Shift_Del,p.L908Wfs*5,A,-,NA,NA,Signed out,NA,NA,Not Covered,0/0(NaN),0/463(0),125/594(0.2104),242/577(0.4194),High
+SOS1,2,39237845,39237845,Splice_Site,p.X797_splice,C,T,NA,NA,Signed out,NA,NA,Not Covered,0/0(NaN),0/561(0),86/751(0.1145),0/609(0),High
+TP53,17,7577081,7577081,Missense_Mutation,p.E286A,T,G,NA,Hotspot,NA,NA,NA,Called,24/2327(0.0103),5/1010(0.005),15/1045(0.0144),2/1211(0.0017),NA
+TP53,17,7578400,7578400,Missense_Mutation,p.P177R,G,C,1.883e-05,NA,NA,NA,NA,Called,5/2122(0.0024),0/769(0),0/852(0),0/1004(0),NA
+KIF5B__RET,10__10,32316469,43611554,INV,Protein Fusion: in frame  {KIF5B:RET},,,,Significance gene,,,,Called,3-5-1300(0.0062),NA,NA,NA,
+KIF5B__RET,10__10,32316470,43611555,INV,Protein Fusion: in frame  {KIF5B:RET},,,,Significance gene,Signed out,,,Not Called,NA,NA,67-10-NA(NA),188-10-NA(NA),High
+RET__YTHDF3-AS1,10__8,43611751,64039875,TRA,-,,,,Significance gene,,,,Called,2-4-35(0.1714),NA,NA,NA,
+YTHDF3-AS1__RET,8__10,64039875,43611751,TRA,-,,,,Significance gene,,,,Called,2-2-22(0.1818),NA,NA,NA,

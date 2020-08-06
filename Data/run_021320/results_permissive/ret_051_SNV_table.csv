@@ -1,0 +1,3 @@
+"Hugo_Symbol","Chromosome","Start_Position","End_Position","Variant_Classification","HGVSp_Short","Reference_Allele","Tumor_Seq_Allele2","ExAC_AF","Hotspot","DMP","CH","duplex_support_num","C-30N2P4-L001-d___duplex.called","C-30N2P4-L001-d___total","C-30N2P4-L002-d___duplex.called","C-30N2P4-L002-d___total","P-0021384-N01-IM6___normal_DMP","P-0021384-T01-IM6___Tumor","call_confidence"
+"ARID1A","1",27023144,27023145,"In_Frame_Ins","p.A88_G93dup","-","GCGGCGGCGGAGCCGGCA",NA,NA,NA,NA,NA,"Called","126/664(0.1898)","Called","80/588(0.1361)","0/51(0)","0/51(0)",""
+"RET","10",43617416,43617416,"Missense_Mutation","p.M918T","T","C",NA,"Hotspot","Signed out",NA,NA,"Called","24/2094(0.0115)","Called","5/1904(0.0026)","0/819(0)","270/720(0.375)",""
